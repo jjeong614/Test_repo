@@ -3,4 +3,10 @@ im not the only one
 I have two midterms two weeks from now so I am really stressed out
 
 
+<<<<<<< HEAD
 This line is to be removed 
+=======
+This line is to be removed
+
+This line should really be removed
+>>>>>>> parent of 4500437... starting over2
