@@ -1,8 +1,5 @@
 im not the only one
-<<<<<<< HEAD
 
 I have two midterms two weeks from now so I am really stressed out
 
 This line is to be removed
-=======
->>>>>>> parent of 7e43548... so fun!
